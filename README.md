@@ -14,7 +14,7 @@ Screenshots
 
 Downloads
 ---------
-[One-Dark-PhpStorm-WebStorm](https://github.com/ranuss/one-dark-phpstorm-webstorm/master/One%20Dark%20-%20Atom.icls)
+[One-Dark-PhpStorm-WebStorm](https://github.com/ranuss/one-dark-phpstorm-webstorm/blob/master/One%20Dark%20-%20Atom.icls)
 
 Installation
 ------------

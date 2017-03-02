@@ -10,7 +10,7 @@ Inspired and adapted from [Jesus Fernandez](https://raw.githubusercontent.com/je
 
 Screenshots
 ---------
-![One Dark](https://github.com/ranuss/one-dark-phpstorm-webstorm/master/Screenshot.png)
+![One Dark](https://github.com/ranuss/one-dark-phpstorm-webstorm/blob/master/Screenshot.png)
 
 Downloads
 ---------
@@ -30,4 +30,4 @@ Installation
 
 2. Restart your IDE
 
-3. Go to `Preferences | Editor | Colors & Fonts` and select One Dark - Atom.
+3. Go to `Preferences | Editor | Colors & Fonts` and select `One Dark - Atom`.

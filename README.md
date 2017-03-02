@@ -6,7 +6,7 @@ One Dark Syntax theme for Jetbrains PhpStorm/WebStorm
 
 Brings Atom's One Dark Syntax color scheme to your Jetbrains PhpStorm/WebStorm.
 
-Inspired and adapted from [Jesus Fernandez](https://raw.githubusercontent.com/jesusOmar/)
+Inspired and adapted from [Jesus Fernandez](https://github.com/jesusOmar)
 
 Screenshots
 ---------
